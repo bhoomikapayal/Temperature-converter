@@ -27,4 +27,4 @@ The **`onchange`** attribute can be used to specify a JavaScript function that w
 
 For example, in the temperature converter code, the **`onchange`** attribute is used with the Celsius, Fahrenheit, and Kelvin input fields to trigger the **`computeTemp`** function whenever the user changes the temperature value in any of those fields.
 
-![image](https://github.com/bhoomikapayal/Temperature-converter/assets/76446574/2d2ac400-5d61-41f3-9c73-3f83c6dba305)
+
